@@ -1,5 +1,3 @@
-![Xnip2019-11-21_15-48-51](https://yhzs15155.oss-cn-hangzhou.aliyuncs.com/images/tailet-logo.png)
-
 # Theme Tailet
 
 
