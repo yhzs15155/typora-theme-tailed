@@ -1,4 +1,4 @@
-![https://yhzs15155.oss-cn-hangzhou.aliyuncs.com/images/tailet-logo.png](https://yhzs15155.oss-cn-hangzhou.aliyuncs.com/images/tailet-logo.png)
+![https://yhzs15155.oss-cn-hangzhou.aliyuncs.com/images/tailet-logo.png](https://yhzs15155.oss-cn-hangzhou.aliyuncs.com/images/tailet-logo2.png)
 
 # Theme Tailet
 
